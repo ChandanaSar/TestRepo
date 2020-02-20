@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31844" started-at="2020-02-19T17:11:59 PST" finished-at="2020-02-19T17:12:31 PST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31844" started-at="2020-02-19T17:11:59 PST" finished-at="2020-02-19T17:12:31 PST">
+      <class name="TesNGTestCase.BoforeAndAfterTestandMethods">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:TesNGTestCase.BoforeAndAfterTestandMethods@3b084709]" name="launchBrowser" is-config="true" duration-ms="10293" started-at="2020-02-19T17:11:59 PST" finished-at="2020-02-19T17:12:09 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:TesNGTestCase.BoforeAndAfterTestandMethods@3b084709]" name="verifyHomepageTitle" is-config="true" duration-ms="9" started-at="2020-02-19T17:12:09 PST" finished-at="2020-02-19T17:12:09 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="register()[pri:0, instance:TesNGTestCase.BoforeAndAfterTestandMethods@3b084709]" name="register" duration-ms="5241" started-at="2020-02-19T17:12:09 PST" finished-at="2020-02-19T17:12:14 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="goBackToHomepage()[pri:0, instance:TesNGTestCase.BoforeAndAfterTestandMethods@3b084709]" name="goBackToHomepage" is-config="true" duration-ms="4494" started-at="2020-02-19T17:12:14 PST" finished-at="2020-02-19T17:12:19 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomepage -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:TesNGTestCase.BoforeAndAfterTestandMethods@3b084709]" name="verifyHomepageTitle" is-config="true" duration-ms="28" started-at="2020-02-19T17:12:19 PST" finished-at="2020-02-19T17:12:19 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="support()[pri:1, instance:TesNGTestCase.BoforeAndAfterTestandMethods@3b084709]" name="support" duration-ms="4629" started-at="2020-02-19T17:12:19 PST" finished-at="2020-02-19T17:12:23 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- support -->
+        <test-method status="PASS" signature="goBackToHomepage()[pri:0, instance:TesNGTestCase.BoforeAndAfterTestandMethods@3b084709]" name="goBackToHomepage" is-config="true" duration-ms="5581" started-at="2020-02-19T17:12:23 PST" finished-at="2020-02-19T17:12:29 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomepage -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:TesNGTestCase.BoforeAndAfterTestandMethods@3b084709]" name="terminateBrowser" is-config="true" duration-ms="1501" started-at="2020-02-19T17:12:29 PST" finished-at="2020-02-19T17:12:31 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- TesNGTestCase.BoforeAndAfterTestandMethods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
