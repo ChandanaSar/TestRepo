@@ -3,16 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TesNGTestCase.BoforeAndAfterTestandMethods">
+      <class name="TesNGTestCase.ParallelTestingExamle">
         <methods>
-          <include name="launchBrowser"/>
-          <include name="register"/>
-          <include name="terminateBrowser"/>
-          <include name="support"/>
-          <include name="verifyHomepageTitle"/>
-          <include name="goBackToHomepage"/>
+          <include name="method2"/>
+          <include name="method1"/>
         </methods>
-      </class> <!-- TesNGTestCase.BoforeAndAfterTestandMethods -->
+      </class> <!-- TesNGTestCase.ParallelTestingExamle -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
